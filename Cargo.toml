@@ -1,0 +1,15 @@
+[package]
+name = "sorrow_filesystem"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sorrow_filesystem"
+path = "src/lib.rs"
+
+[[bin]]
+name = "sorrow-fs"
+path = "src/bin/main.rs"
+
+[dependencies]
+crc32fast = "1.3.2"
