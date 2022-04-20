@@ -1,2 +1,2 @@
-# sorrow_filesystem
-# sorrow_filesystem
+# Sorrow Filesystem
+A bootstrap filesystem for creating a bootable Sorrow image 
